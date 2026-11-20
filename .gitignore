@@ -1,0 +1,8 @@
+# Logs d'audit (contiennent des infos sensibles / may contain sensitive info)
+*_audit.log
+netsecurepro_*.log
+
+# Divers
+*.swp
+*~
+.DS_Store
